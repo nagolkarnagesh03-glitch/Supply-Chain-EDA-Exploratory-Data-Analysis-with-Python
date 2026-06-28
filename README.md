@@ -150,3 +150,18 @@ supply-chain-eda/
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
 
 ---
+
+
+
+
+**💼 4 Strong ATS Resume Points**
+
+Replace placeholders with your actual figures once you run the notebook.
+
+1. Conducted end-to-end Exploratory Data Analysis on a 1,000+ row supply chain dataset using Python (Pandas, NumPy, Matplotlib), uncovering supplier defect patterns and revenue drivers across 20+ variables.
+   
+3. Built 30+ visualizations (histograms, bar charts, scatter plots, pivot heatmaps) to analyze pricing strategy, logistics costs, and customer demographics — identifying top-performing supplier-product combinations by revenue.
+
+5. Engineered an inventory turnover metric and applied multi-criteria sorting to flag high-priority restocking SKUs with low stock and high sales volume, enabling data-driven supply chain decisions.
+
+7. Performed multivariate analysis using Pandas pivot tables across Supplier × Product Type × Transportation Mode dimensions to compare manufacturing costs, defect rates, and shipping efficiency across the supply chain.
